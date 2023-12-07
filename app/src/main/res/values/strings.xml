@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeTalk09</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="register_hint">Register</string>
+    <string name="avatar_hint">Avatar</string>
+</resources>
